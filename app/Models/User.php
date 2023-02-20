@@ -51,7 +51,7 @@ class User extends Authenticatable implements HasApiTokensContract
     public function isAdmin()
     {
         return in_array($this->email, [
-            'andre@andre.com',
+            'samiianas000@gmail.com',
         ]);
     }
 }
