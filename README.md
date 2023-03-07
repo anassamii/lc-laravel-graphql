@@ -1,3 +1,5 @@
+Migration + Schema.graphql(Routes + Models + Controllers) + Resolver(Controller, for custom commands, Optionel)
+
 requires php ^7.4 || ^8.0 -> your php version (7.3.28)
 
 composer update (no need ?)
