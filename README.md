@@ -1,4 +1,4 @@
-Migration + Schema.graphql(Routes + Models + Controllers) + Resolver(Controller, for custom commands, Optionel)
+Migration + Models?(relations) + Schema.graphql(Routes + Models + Controllers) + Resolver(Controller, for custom commands, Optionel) + Factory/Seeds (Dummy data, Optionel)
 
 requires php ^7.4 || ^8.0 -> your php version (7.3.28)
 
